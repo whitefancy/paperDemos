@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="1458">
+        <text>Our agreed favorite is the orrechiete with sausage but not chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).</text>
+        <aspectTerms>
+            <aspectTerm term="orrechiete with sausage" polarity="positive" from="27" to="62"/>
+            <aspectTerm term="chicken" polarity="negative" from="27" to="62"/>
+            <aspectTerm term="waiters" polarity="positive" from="76" to="83"/>
+            <aspectTerm term="meats" polarity="neutral" from="152" to="157"/>
+            <aspectTerm term="dish" polarity="neutral" from="113" to="117"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="conflict"/>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3121">
+        <text>But the staff was not horrible to us.</text>
+        <aspectTerms>
+            <aspectTerm term="staff" polarity="positive" from="8" to="13"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="296">
+        <text>They did not have mayonnaise, forgot our toast, left out ingredients (ie cheese in an omelet), below hot temperatures and the bacon was not cooked it crumbled on the plate when you touched it.</text>
+        <aspectTerms>
+            <aspectTerm term="toast" polarity="negative" from="41" to="46"/>
+            <aspectTerm term="mayonnaise" polarity="negative" from="18" to="28"/>
+            <aspectTerm term="bacon" polarity="positive" from="126" to="131"/>
+            <aspectTerm term="cheese" polarity="neutral" from="73" to="79"/>
+            <aspectTerm term="ingredients" polarity="negative" from="57" to="68"/>
+            <aspectTerm term="plate" polarity="neutral" from="170" to="175"/>
+            <aspectTerm term="omelet" polarity="neutral" from="86" to="92"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="conflict"/>
+        </aspectCategories>
+    </sentence>
+        <sentence id="2926">
+        <text>We ordered the special, grilled branzino, that was so infused with bone,but it was easy to eat.</text>
+        <aspectTerms>
+            <aspectTerm term="grilled branzino" polarity="conflict" from="24" to="40"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="conflict"/>
+        </aspectCategories>
+    </sentence>
+        <sentence id="473">
+        <text>I've never been treated so kindly.</text>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+        <sentence id="688">
+        <text>I think this was a pretty good spot if it were not so overpriced and overrated.</text>
+        <aspectCategories>
+            <aspectCategory category="price" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+</sentences>

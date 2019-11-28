@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="zju@10.214.224.139:22">
+    <serverData>
+      <paths name="237zju">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ABSA-BERT-pair" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zju@10.214.224.139:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ABSA-BERT-pair" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
